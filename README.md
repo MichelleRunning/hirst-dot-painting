@@ -39,8 +39,8 @@ Below is the output preview of the dot painting program:
 2. Clone the repository:
 ```bash
 
- git clone https://github.com/MichelleRunning/Hirst-dot-painting.git
- cd Hirst-dot-painting
+ git clone https://github.com/MichelleRunning/hirst-dot-painting.git
+ cd hirst-dot-painting
 ```
 
 3. Run the script:
