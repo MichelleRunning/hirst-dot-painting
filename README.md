@@ -1,8 +1,8 @@
 # Dot Painting with Python Turtle
 
-A Python program that generates a colorful 10x10 dot grid using the Turtle graphics module. This project is inspired by modern dot-painting techniques and the work of contemporary artist, Daniel Hirst, aiming to combine programming with art. It demonstrates Python programming concepts such as loops, lists, and randomization, making it a fun project!
+A Python program that generates a colorful 10x10 dot grid using the Turtle graphics module. This project is inspired by modern dot-painting techniques and the work of contemporary artist, Damien Hirst, aiming to combine programming with art. It demonstrates Python programming concepts such as loops, lists, and randomization, making it a creative project.
 
-## Project Overview
+## Project Overview:
 
 This project creates a visually appealing dot painting using the following steps:
 
@@ -11,9 +11,13 @@ This project creates a visually appealing dot painting using the following steps
 3. **Draw a Dot Grid:** Use nested loops to draw a 10x10 grid of colored dots, with each dot placed evenly in a grid layout.
 4. **Randomize Colors:** Each dot color is chosen randomly from the palette, resulting in a unique artwork each time the program runs.
 
-### Motivation
+### Technical Concepts:
 
-This project is part of my 100 days of Code Challenge and explores how programming can be used to experiment with generative art.
+1. Python
+2. Turtle graphics
+3. Loops and data structures
+4. Randomization
+5. Color palettes and generative art
 
 ### Key Features
 
@@ -23,17 +27,24 @@ This project is part of my 100 days of Code Challenge and explores how programmi
 - Easy to modify: dot size, spacing, and colors can be customized
 - Lightweight and beginner-friendly code
 
-### Screenshot
+### Output Preview
 
-Here’s the output of the dot painting program:
+Below is the output preview of the dot painting program:
 
 ![Dot Painting Screenshot](screenshot-output.jpg)
 
-### Installation
+### How to Run
 
-1. Clone the repository:
+1. Install Python 3.x
+2. Clone the repository:
 ```bash
 
-git clone https://github.com/<your-username>/MichelleRunning.git
-cd MichelleRunning
+ git clone https://github.com/MichelleRunning/Hirst-dot-painting.git
+ cd Hirst-dot-painting
+```
+
+3. Run:
+ ```bash
+   python main.py
+```
 
