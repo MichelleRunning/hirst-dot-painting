@@ -43,7 +43,7 @@ Below is the output preview of the dot painting program:
  cd Hirst-dot-painting
 ```
 
-3. Run:
+3. Run the script:
  ```bash
    python main.py
 ```
